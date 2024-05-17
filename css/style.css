@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   border: 1px solid;
+   border-width: 5px;
+   border-radius: 50rem;
+   background-color: blueviolet;
+font-size: 25px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    border-radius: 5rem;
+}
+button{
+    border-radius: 5rem;
+}
